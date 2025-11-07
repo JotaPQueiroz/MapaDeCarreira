@@ -1,4 +1,5 @@
 🗺️ **Mapa de Carreira:** **João Pedro Queiroz de Melo**
+
 Este repositório contém meu projeto pessoal de visualização de carreira e perfil profissional, desenvolvido como um desafio de front-end. O objetivo é mapear meu desenvolvimento profissional, desde a graduação até os cargos de liderança executiva.
 
 ✨ **Sobre o Projeto**
